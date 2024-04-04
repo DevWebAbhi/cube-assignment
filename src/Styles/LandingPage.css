@@ -10,7 +10,7 @@ body::-webkit-scrollbar {
 
 .main-box{
     display: flex;
-    height: 90vh;
+    height: 95vh;
     margin: auto;
     max-width: 1500px;
     font-family: Poppins;
@@ -23,7 +23,7 @@ body::-webkit-scrollbar {
 .main-box>div:first-child{
     width: 30%;
     text-align: start;
-    height: 90vh;
+    
     overflow-y: auto;
     background-color: rgb(243, 243, 243);
 }
@@ -39,7 +39,7 @@ body::-webkit-scrollbar {
 .main-box>div:nth-child(2){
     padding: 2rem;
     width: 70%;
-    height: 85vh;
+    
     overflow-y: auto;
     background-color: rgb(230, 230, 230);
 }
